@@ -4,7 +4,7 @@
  
   <groupId>com.tubes.app</groupId>
   <artifactId>week14</artifactId>
-  <version>3.0.0</version>
+  <version>3.0.1</version>
  
   <properties>
     <maven.compiler.source>1.7</maven.compiler.source>
