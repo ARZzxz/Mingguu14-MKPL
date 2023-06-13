@@ -24,7 +24,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/eliaangga/Weekk14-MKPL</url>
+      <url>https://maven.pkg.github.com/ARZzxz/Mingguu14-MKPL</url>
     </repository>
   </distributionManagement>
 </project>
