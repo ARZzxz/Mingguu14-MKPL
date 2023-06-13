@@ -3,3 +3,4 @@ public class NumberChecker {
         return number * number;
     }
 }
+
